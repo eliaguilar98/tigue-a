@@ -7,6 +7,6 @@
      
      _inherit = 'project.task.recurrence'
     
-    next_recurrence_date = fields.Datetime()
+     next_recurrence_date = fields.Datetime()
 
 
